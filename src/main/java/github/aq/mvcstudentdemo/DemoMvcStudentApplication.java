@@ -8,6 +8,5 @@ public class DemoMvcStudentApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoMvcStudentApplication.class, args);
-		System.out.printf("%x", 0xA);
 	}
 }
